@@ -41,7 +41,7 @@
 
 1. Click [SCAN](https://replit.com/@Thusitmk/MUTHU-MD-V70?v=1) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
 
-2. Click [FORK](https://github.com/user123ja/MUTHU-MD-V7/fork)
+2. Click [FORK](https://github.com/user123ja/Muthu-MD-V1.2/fork)
 
 2. After That Upload Session.json File
 
