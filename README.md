@@ -10,7 +10,7 @@
    
    ```Thanks Fro using MUTHU-MD```
 
-## Thanks To : [`ZimBot`](https://github.com/zim-bot/zimbot-v4)
+## Thanks To : [`ZimBot`](https://github.com/zim-bot/zimbot-v4) , [`Vihanga-YT`](https://github.com/vihangayt0)
 
 
 
@@ -50,8 +50,7 @@
 5. Then Click [DEPLOY](https://heroku.com/deploy) Button To Enjoy My Bot.
 
 
-## Owner:
-* [`TS`](wa.me/94789166455)
+
 
 
 
