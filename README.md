@@ -39,7 +39,7 @@
  
 
 
-1. Click [SCAN](https://replit.com/@Thusitmk/SACHIYA -MD-V70?v=1) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
+1. Click [SCAN] (https://replit.com/@Thusitmk/SACHIYA-MD-V70?v=1)  and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
 
 2. Click [FORK](https://github.com/user123ja/SACHIYA -MD-V1.2/fork)
 
