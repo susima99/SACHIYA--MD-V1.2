@@ -1,16 +1,16 @@
-# MUTHU-MD
+# SACHIYA -MD
 
 
 
-    MUTHU-MD
+    SACHIYA -MD
     
    
    
    
    
-   ```Thanks Fro using MUTHU-MD```
+   ```Thanks Fro using SACHIYA -MD```
 
-## Thanks To : [`ZimBot`](https://github.com/zim-bot/zimbot-v4) , [`Vihanga-YT`](https://github.com/vihangayt0)
+## Thanks To : [`ZimBot`](https://github.com/zim-bot/zimbot-v4) , [`SACHIYA-YT `](https://github.com/vihangayt0)
 
 
 
@@ -35,13 +35,13 @@
 
 </div>
 
-<p align="center">MUTHU-MD</br> 
+<p align="center">SACHIYA -MD</br> 
  
 
 
-1. Click [SCAN](https://replit.com/@Thusitmk/MUTHU-MD-V70?v=1) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
+1. Click [SCAN](https://replit.com/@Thusitmk/SACHIYA -MD-V70?v=1) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
 
-2. Click [FORK](https://github.com/user123ja/Muthu-MD-V1.2/fork)
+2. Click [FORK](https://github.com/user123ja/SACHIYA -MD-V1.2/fork)
 
 2. After That Upload Session.json File
 
@@ -55,7 +55,7 @@
 
 
 ## Thanks To
-* [`Vihanga-YT`](https://github.com/vihangayt0)
+* [`SACHIYA -YT`](https://github.com/vihangayt0)
 * [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
 * [`Alien-Alfa`](https://github.com/Alien-Alfa)
 * [`DGXeon`](https://github.com/DGXeon)
