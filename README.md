@@ -23,7 +23,7 @@
 
   <p align="center">
 
-<img src="https://i.ibb.co/WGGxrdZ/TS.jpg" alt="GIF" width="700"/>
+<img src="https://i.pinimg.com/originals/95/e3/1b/95e31ba3d2d51ac1c90c33f2a3e17891.png" alt="GIF" width="700"/>
 
 </p>
 
